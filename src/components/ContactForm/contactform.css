@@ -1,0 +1,19 @@
+button{
+    background-color: #EA7B2C;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 5px;
+    padding: 8px;
+    margin: 5px;
+}
+
+input {
+    padding: 8px;
+    margin: 5px;
+}
+
+.message {
+    margin-top: 10px;
+    color: red; 
+    margin-left: 10px;
+  }
